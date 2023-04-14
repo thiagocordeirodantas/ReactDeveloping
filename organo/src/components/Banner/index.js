@@ -1,3 +1,5 @@
+import './Banner.css'
+
 const Banner = () => {
     //JSX
     return (
@@ -7,3 +9,4 @@ const Banner = () => {
     )}
 
 
+export default Banner
